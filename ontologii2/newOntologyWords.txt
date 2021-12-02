@@ -1,0 +1,8 @@
+The memory stores the program ’ s instructions and data
+Computers also have another level of memory called a cache , a small , extremely fast ( compared with the main memory , or random access memory [ RAM ] ) unit that can be used to store information that is urgently or frequently needed
+This instruction loads the contents of memory location 10 into the ALU
+In general , programs are not just lengthy sequences of LOAD , STORE , and arithmetic operations
+Computer architectures that can execute sequences of instructions , conditional instructions , and loops are called “ Turing complete , ” which means that they can carry out the execution of any algorithm that can be defined
+Logic design is the area of computer science that deals with the design of electronic circuits using the fundamental principles and properties of logic ( see Boolean algebra ) to carry out the operations of the control unit , the ALU , the I/O controllers , and other hardware
+Graphics and visual computing is the field that deals with the display and control of images on a computer screen
+Medical imaging applications involve the visualization of data obtained from technologies such as X-rays and magnetic resonance imaging ( MRIs ) to assist doctors in diagnosing medical conditions
